@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "64350893066",
+    "firebase_url": "https://penjadwalan-andra7208.firebaseio.com",
+    "project_id": "penjadwalan-andra7208",
+    "storage_bucket": "penjadwalan-andra7208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64350893066:android:8c8eefc9fb5a5c81",
+        "android_client_info": {
+          "package_name": "com.example.penjadwalankerja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64350893066-a4ptgatsa8feouuuva3bain9cb12ilci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.penjadwalankerja",
+            "certificate_hash": "490cad0c41b1b74ec74b0905be88b9b1a82e8fec"
+          }
+        },
+        {
+          "client_id": "64350893066-hgu7ur8i47ceda6kkvgotspvglmh1bt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.penjadwalankerja",
+            "certificate_hash": "c35b935ec1e83d67f7674a877dc837a25bff94c8"
+          }
+        },
+        {
+          "client_id": "64350893066-mj2rs7akqafppodqn3mq7am3ike72o14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrpZGywrcJI0-3tXccHLnZntakWke9NL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64350893066-mj2rs7akqafppodqn3mq7am3ike72o14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

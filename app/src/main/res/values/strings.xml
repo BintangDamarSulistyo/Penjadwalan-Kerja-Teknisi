@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Penjadwalan Kerja</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama_pelanggan">Nama Pelanggan</string>
+    <string name="timeresult">Jam</string>
+    <string name="no_telepon">No Telepon</string>
+    <string name="nama_teknisi">Nama Teknisi</string>
+    <string name="save">save</string>
+    <string name="clear">clear</string>
+    <string name="namapelanggan">namapelanggan</string>
+    <string name="dateresult">Tanggal</string>
+    <string-array name="usertype">
+        <item>admin</item>
+        <item>user</item>
+    </string-array>
+    <string-array name="teknisi">
+        <item>Echa</item>
+        <item>Edo</item>
+    </string-array>
+    <string name="title_activity_google_maps">Map</string>
+</resources>
